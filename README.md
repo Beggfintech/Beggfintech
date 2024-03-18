@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<img src="./beggheader.png" width ="100%"></img>
+# Welcome to Begg
 <!--
 **Beggfintech/Beggfintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
